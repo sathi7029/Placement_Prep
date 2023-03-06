@@ -1,10 +1,7 @@
 package Day8;
-
 import java.util.ArrayList;
-
-public class RemoveEven {
+public class RemoveEven{
     public static void removeEven(ArrayList<Integer>a){
-        
         for(int i=a.size()-1;i>=0;i--){
             if(a.get(i)%2==0){
                 a.remove(i);
