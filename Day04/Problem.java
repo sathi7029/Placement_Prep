@@ -1,4 +1,4 @@
-package Day4;
+package Day04;
 public class Problem{
     static int element_sum(int a[]){
         int n=a.length;

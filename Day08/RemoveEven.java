@@ -1,4 +1,4 @@
-package Day8;
+package Day08;
 import java.util.ArrayList;
 public class RemoveEven{
     public static void removeEven(ArrayList<Integer>a){

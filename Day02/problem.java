@@ -1,5 +1,5 @@
 // print the first character of every word
-package Day2;
+package Day02;
 
 public class problem {
     public static void main(String[] args) {

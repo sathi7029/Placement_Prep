@@ -1,4 +1,4 @@
-package Day7;
+package Day07;
 public class TransposeMetrix {
     static void rotate90(int a[][]){
         Transposematrix(a);
