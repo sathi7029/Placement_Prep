@@ -1,6 +1,6 @@
 package Day14;
 
-public class MaximumNumberInaWord {
+public class MaximumNumberInaSentences {
     static void getMaxNum(String [] str){
         int max=0;
         for(int i=0;i<str.length;i++){
